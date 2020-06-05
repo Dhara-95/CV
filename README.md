@@ -1,55 +1,62 @@
-## Your Name
+## Dhara Patel
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Currently studying Software Engineering through Makers Academy. Looking for a junior developer role that will utilise my strong communication and analytical skills.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication skills
 
-#### This Skill
+- In my previous career, effective and clear communication was essential in order to complete projects that involved a number of stakeholders from various different functions.
+- Working cross functionally in previous job roles has allowed me to gain confidence and strengthen my communication skills, which I believe is essential for pair programming within a junior developer role.
 
-- Experience
-- Achievements
-- Evidence
+#### Analytical skills
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- During my time at ASOS.com my analytical skills strengthened further, with my knowledge of Excel improving greatly.
+- This was largely due to gaining increased autonomy over a number of pricing tests and projects, where consistency and accuracy of reporting were vital, to ensure the risks and negative commercial impacts were kept to a minimum.
+- I believe that my strong analytical skills are transferrable into a junior developer role as will aid in effective problem solving that I am likely to encounter on a daily basis.  
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2020 - Present)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby
 
-#### Your University / College (start_date to end_date)
+#### University of Southampton (September 2013 - July 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc(Joint Hons) Physical Geography with Geology
+- 2:2
+- Key skills gained:
+  - Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well as other specialist computer programmes (incl. SigmaPlot and ArcGIS).
+  - Gained the ability to analyse and interpret complex data sets, before presenting back based on the overall analysis made.
+  - Strengthened communication skills and gained confidence working in both small and large teams.
 
-#### Any other qualifications
+#### Bromley High School GDST (September 2002 - August 2013)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A2-Levels: Geography (B), Psychology (B) and Biology (C)
+- GCSEs: 9 A-B grades, including English and Maths
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**ASOS.com** (May 2018 - May 2020)    
+*Assistant Pricing Merchandiser*  
+- My role at ASOS involved reviewing, maintaining and managing prices for our entire product assortment and across multiple global markets, under the direction of the Pricing Manager.
+- The Pricing Team at ASOS were responsible for providing business critical pricing recommendations to the CEO, largely based upon the data analysis I provided using various internal and external systems, which helped to potentialise on sales and contributed to the business' bottom line profit.
+- As mentioned previously, during my time at ASOS I was able to further develop both my communication and analytical skills, which will help me to pair program and problem solve effectively in a software development role.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Arcadia Group Ltd, Miss Selfridge** (September 2016 - May 2018)   
+*Senior Merchandising Admin Assistant*  
+- My role entailed analysing various forms of sales data in order to create daily, weekly and monthly reports for my team, as well as collating company KPI data to feedback and present to senior management.
+- This role also involved creating promotional sales plans for where stock should be allocated throughout the network of UK and international stores, in order to minimise risk and maximise profits.
+- During my time at Arcadia I was able to strengthen my communication skills but also learnt how to manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment, which will be an essential transferable skill into software development.
 
-## Hobbies
+## Achievements and Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia (I also hope to become a mentor during my time at Makers).
+
+- Nominated as the Joint Honours course representative at the University of Southampton.
+
+- Involvement in international charity projects, including refurbishing a local school in Uzbekistan and teaching English to young children attending the school.
+
+- Completed the Guy’s Hospital charity challenge in 2015 and raised over £1000 for the new Cancer Centre.
+
+- More recently have started yoga to help me relax after a long day of coding and to also help me focus whilst learning how to code.

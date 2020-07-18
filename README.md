@@ -7,7 +7,7 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 #### Communication skills
 
 - In my previous career, effective and clear communication was essential in order to complete projects that involved a number of stakeholders from various different functions.
-- Working cross functionally in previous job roles has allowed me to gain confidence and strengthen my communication skills, which I believe is essential for pair programming within a junior developer role.
+- Working cross functionally in previous job roles has allowed me to gain confidence and strengthen my communication skills, which I believe is essential for a junior developer working within a wider team.
 
 #### Analytical skills
 
@@ -19,7 +19,11 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 
 #### Makers Academy (May 2020 - Present)
 
-- Ruby
+- Languages: Ruby, Javascript, Node.js, SQL
+- Projects:
+  - Ruby based web app (Rock, Paper, Scissors game): https://github.com/Dhara-95/rps-challenge
+  - Ruby based web app using PostgresSQL database (Twitter clone): https://github.com/Dhara-95/chitter-challenge
+  - Javascript based web app using Node.js and ElephantSQL database (AirBnB clone): https://github.com/Dhara-95/Makersbnb
 
 #### University of Southampton (September 2013 - July 2016)
 
@@ -59,4 +63,4 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 
 - Completed the Guy’s Hospital charity challenge in 2015 and raised over £1000 for the new Cancer Centre.
 
-- More recently have started yoga to help me relax after a long day of coding and to also help me focus whilst learning how to code.
+- More recently have started yoga and meditation to help keep me focused whilst learning at Makers Academy.

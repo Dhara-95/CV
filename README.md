@@ -19,11 +19,12 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 
 #### Makers Academy (May 2020 - Present)
 
-- Languages: Ruby, Javascript, Node.js, SQL
+- Languages: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL.
 - Projects:
   - Ruby based web app (Rock, Paper, Scissors game): https://github.com/Dhara-95/rps-challenge
   - Ruby based web app using PostgresSQL database (Twitter clone): https://github.com/Dhara-95/chitter-challenge
-  - Javascript based web app using Node.js and ElephantSQL database (AirBnB clone): https://github.com/Dhara-95/Makersbnb
+  - JavaScript based web app using Node.js and ElephantSQL database (AirBnB clone): https://github.com/Dhara-95/Makersbnb
+  - Sing page web app using only pure JavaScript (Notes web app): https://github.com/Dhara-95/NotesApp
 
 #### University of Southampton (September 2013 - July 2016)
 
@@ -31,7 +32,7 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 - 2:2
 - Key skills gained:
   - Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well as other specialist computer programmes (incl. SigmaPlot and ArcGIS).
-  - Gained the ability to analyse and interpret complex data sets, before presenting back based on the overall analysis made.
+  - Gained the ability to analyse and interpret complex data sets, before presenting back findings based on the overall analysis made.
   - Strengthened communication skills and gained confidence working in both small and large teams.
 
 #### Bromley High School GDST (September 2002 - August 2013)
@@ -55,12 +56,10 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 
 ## Achievements and Interests
 
-- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia (I also hope to become a mentor during my time at Makers).
+- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I have also recently joined the mentor scheme at Makers Academy where I am able to mentor a fellow Makers student, who has just started the course. 
 
 - Nominated as the Joint Honours course representative at the University of Southampton.
 
 - Involvement in international charity projects, including refurbishing a local school in Uzbekistan and teaching English to young children attending the school.
 
-- Completed the Guy’s Hospital charity challenge in 2015 and raised over £1000 for the new Cancer Centre.
-
-- More recently have started yoga and meditation to help keep me focused whilst learning at Makers Academy.
+- More recently I have started yoga and meditation to help keep me focused whilst learning at Makers Academy.

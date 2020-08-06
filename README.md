@@ -1,6 +1,6 @@
 ## Dhara Patel
 
-Currently studying Software Engineering through Makers Academy. Looking for a junior developer role that will utilise my strong communication and analytical skills.
+Currently studying Software Development through Makers Academy. Looking for a Junior Developer role that will utilise my strong communication and analytical skills.
 
 ## Skills
 
@@ -19,12 +19,11 @@ Currently studying Software Engineering through Makers Academy. Looking for a ju
 
 #### Makers Academy (May 2020 - Present)
 
-- Languages: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL.
+- Languages/Frameworks: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL.
 - Projects:
-  - Ruby based web app (Rock, Paper, Scissors game): https://github.com/Dhara-95/rps-challenge
-  - Ruby based web app using PostgresSQL database (Twitter clone): https://github.com/Dhara-95/chitter-challenge
-  - JavaScript based web app using Node.js and ElephantSQL database (AirBnB clone): https://github.com/Dhara-95/Makersbnb
-  - Sing page web app using only pure JavaScript (Notes web app): https://github.com/Dhara-95/NotesApp
+  - Ruby on Rails web app (Facebook Clone): https://github.com/katieljones/acebook-dreambook-2020
+  - JavaScript web app using Node.js and ElephantSQL database (AirBnB clone): https://github.com/Dhara-95/Makersbnb
+  - Single page web app using only pure JavaScript (Notes web app): https://github.com/Dhara-95/NotesApp
 
 #### University of Southampton (September 2013 - July 2016)
 

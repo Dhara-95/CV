@@ -27,8 +27,7 @@ Currently studying Software Development through Makers Academy. Looking for a Ju
 
 #### University of Southampton (September 2013 - July 2016)
 
-- BSc(Joint Hons) Physical Geography with Geology
-- 2:2
+- BSc(Joint Hons) Physical Geography with Geology 2:2
 - Key skills gained:
   - Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well as other specialist computer programmes (incl. SigmaPlot and ArcGIS).
   - Gained the ability to analyse and interpret complex data sets, before presenting back findings based on the overall analysis made.

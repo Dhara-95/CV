@@ -21,7 +21,7 @@ Currently studying Software Development through Makers Academy. Looking for a Ju
 
 - Languages/Frameworks: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL.
 - Projects:
-  - Ruby on Rails web app (Facebook Clone): https://github.com/katieljones/acebook-dreambook-2020
+  - Ruby on Rails web app (Facebook Clone): https://github.com/Dhara-95/acebook-dreambook-2020
   - JavaScript web app using Node.js and ElephantSQL database (AirBnB clone): https://github.com/Dhara-95/Makersbnb
   - Single page web app using only pure JavaScript (Notes web app): https://github.com/Dhara-95/NotesApp
 

@@ -3,7 +3,7 @@
 Recent Software Development graduate from Makers Academy. Looking for a Junior Developer role that will utilise my strong communication and analytical skills.
 
 
-## Projecsts
+## Projects
 
 | Project (Repo) | Description   | Tech Stack    |
 | -------------  | ------------- | ------------- |
@@ -27,9 +27,9 @@ Recent Software Development graduate from Makers Academy. Looking for a Junior D
 
 ## Education
 
-#### Makers Academy (May 2020 - Present)
+#### Makers Academy (May 2020 - August 2020)
 
-- Languages/Frameworks: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL.
+- Languages/Frameworks: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, Swift, Xcode
 
 
 #### University of Southampton (September 2013 - July 2016)

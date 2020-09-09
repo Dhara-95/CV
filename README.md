@@ -3,8 +3,8 @@
   Email: dhara.patel95@hotmail.co.uk 
 
   <a href="www.linkedin.com/in/dhara-patel95"><img src="images/linkedin_logo.png" width="110" alt="LinkedIn"></a>
-  <img src="images/white_space.jpg" width="170" height="100">
-  <a href="https://medium.com/@dhara.patel95"><img src="images/Medium_image.png" width="110" height="95" alt="Medium" ></a>
+  <img src="images/white_space.jpg" width="95" height="100">
+  <a href="https://medium.com/@dhara.patel95"><img src="images/Medium_image.png" width="100" height="95" alt="Medium" ></a>
   </div>
 
 ## About Me

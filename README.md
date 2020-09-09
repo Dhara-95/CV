@@ -72,10 +72,8 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 ## Achievements and Interests
 
-- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I have also recently joined the mentor scheme at Makers Academy where I am able to mentor a fellow Makers student, who has just started the course. 
+- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I have also recently joined the mentor scheme at Makers Academy where I am a mentor to students who have just started the course. 
 
 - Nominated as the Joint Honours course representative at the University of Southampton.
-
-- Involvement in international charity projects, including refurbishing a local school in Uzbekistan and teaching English to young children attending the school.
 
 - More recently I have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.

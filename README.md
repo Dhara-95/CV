@@ -5,11 +5,13 @@ Recent Software Development graduate from Makers Academy. Looking for a Junior D
 
 ## Projects
 
-| Project (Repo) | Description   | Tech Stack    |
+| Project (Repo) | Description   | Technologies    |
 | -------------  | ------------- | ------------- |
 | [Choose My Plant](https://github.com/Dhara-95/FinalProject_CMP) | Makers Academy Final Project. An iOS mobile app that provides a randomised plant recommendation at the click of a button, to help you grow your plant family. | Swift, Xcode, Firebase (NoSQL), Trefle Plant API |
-| [Dreambook](https://github.com/Dhara-95/acebook-dreambook-2020) | A clone of Facebook - Dreambook is a web app, which allows users to post comments on their own walls as well as on each others. | Ruby, Rails, HTML, CSS, RSpec, PostgreSQL, Heroku |
+| [Dreambook](https://github.com/Dhara-95/acebook-dreambook-2020) | A clone of Facebook - Dreambook is a web app, which allows users to post comments on their own wall as well as on each others. | Ruby, Rails, HTML, CSS, RSpec, PostgreSQL, Heroku |
 | [MakersBnB](https://github.com/Dhara-95/Makersbnb) | A clone of AirBnB's website - MakersBnB is a web app that allows users to list a space available to book, as well as view all the spaces listed on the site. | JavaScript, Node.js, Express, HTML, CSS, Jasmine, ElephantSQL |
+
+Please see my full Github repository list [here](https://github.com/Dhara-95?tab=repositories)
 
 
 ## Skills

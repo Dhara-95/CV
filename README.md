@@ -36,7 +36,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 ## Education
 
-#### Makers Academy (May 2020 - August 2020)
+[**Makers Academy (May 2020 - August 2020)**](https://makers.tech/)
 
 Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
@@ -44,25 +44,25 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 - Tech/language agnostic.
 - Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, PostgreSQL, Swift, Xcode
 
-#### University of Southampton (September 2013 - July 2016)
+[**University of Southampton (September 2013 - July 2016)**](https://www.southampton.ac.uk/)
 
 - BSc(Joint Hons) Physical Geography with Geology 2:2
   - Dissertation on the ‘Water Degradation of the Aral Sea’ – used remote sensing technologies and satellite imagery to track the changes in water levels and composition.
 
-#### Bromley High School GDST (September 2002 - August 2013)
+[**Bromley High School GDST (September 2002 - August 2013)**](https://www.bromleyhigh.gdst.net/)
 
 - A2-Levels: Geography (B), Psychology (B) and Biology (C)
 
 ## Experience
 
-**ASOS.com** (May 2018 - May 2020)    
+[**ASOS.com** (May 2018 - May 2020)](https://www.asosplc.com/)    
 *Assistant Pricing Merchandiser*  
 - Reviewed, maintained and managed prices for our entire product assortment and across multiple global markets, under the direction of the Pricing Manager. 
 - Responsible for consolidating weekly, monthly and quarterly reports across key customer and business metrics, to be shared with the Pricing Team and senior management. Consistency and accuracy of reporting were essential in order to ensure the risks and negative commercial impacts were kept to a minimum.  
 - Provided business critical pricing recommendations to the CEO, largely based upon the data analysis I carried out using various internal and external systems, which ultimately helped to potentialise on sales and contributed to bottom line profit. 
 - Built strong professional relationships with colleagues (within Finance, Insights & Analytics, Marketing and Tech), by working cross functionally and utilising my strong communication skills. I believe this skill will help me to pair program and problem solve effectively in a software development role.
 
-**Arcadia Group Ltd, Miss Selfridge** (September 2016 - May 2018)   
+[**Arcadia Group Ltd, Miss Selfridge** (September 2016 - May 2018)](https://www.arcadiagroup.co.uk/)   
 *Senior Merchandising Admin Assistant*  
 - Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
 - Created both promotional and sales plans for stock movement throughout the network of UK and international stores, to potentialise sales and minimise the risk to the business.

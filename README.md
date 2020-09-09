@@ -1,5 +1,6 @@
 <div align="center">
-# Dhara Patel
+  <h1>Dhara Patel</h1>
+  Email: dhara.patel95@hotmail.co.uk 
 <div align="center">
 
 ## About Me

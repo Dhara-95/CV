@@ -1,4 +1,8 @@
-->**Dhara Patel**<- 
+<div align="center">
+# Dhara Patel
+<div align="center">
+
+## About Me
 
 Recent Software Development graduate from Makers Academy. Looking for a Junior Developer role that will utilise my strong communication and analytical skills.
 

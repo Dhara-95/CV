@@ -1,7 +1,10 @@
 <div align="center">
   <h1>Dhara Patel</h1>
   Email: dhara.patel95@hotmail.co.uk 
-<div align="center">
+
+  <a href="www.linkedin.com/in/dhara-patel95"><img src="images/linkedin_logo.png" width="110" alt="LinkedIn"></a>
+  <a href="https://medium.com/@dhara.patel95"><img src="images/Medium_image.png" width="110" alt="Medium" align="right"></a>
+</div>
 
 ## About Me
 

@@ -32,16 +32,16 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Makers Academy (May 2020 - August 2020)
 
-- Languages/Frameworks: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, Swift, Xcode
-
+Fully remote 16-week Immersive Software Development Course, which focused on:
+- Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
+- Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).
+- Tech/language agnostic.
+- Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, PostgreSQL, Swift, Xcode
 
 #### University of Southampton (September 2013 - July 2016)
 
 - BSc(Joint Hons) Physical Geography with Geology 2:2
   - Dissertation on the ‘Water Degradation of the Aral Sea’ – used remote sensing technologies and satellite imagery to track the changes in water levels and composition.
-  - Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well as experience in other specialist computer programmes (incl. ENVI and ArcGIS).
-  - Gained the ability to analyse and interpret complex data sets, before presenting back findings based on the overall analysis made.
-  - Advanced problem solving skills developed from working in both individual and team projects. 
 
 #### Bromley High School GDST (September 2002 - August 2013)
 

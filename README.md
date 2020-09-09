@@ -10,8 +10,9 @@ Recent Software Development graduate from Makers Academy. Looking for a Junior D
 | [Choose My Plant](https://github.com/Dhara-95/FinalProject_CMP) | Makers Academy Final Project. An iOS mobile app that provides a randomised plant recommendation at the click of a button, to help you grow your plant family. | Swift, Xcode, Firebase (NoSQL), Trefle Plant API |
 | [Dreambook](https://github.com/Dhara-95/acebook-dreambook-2020) | A clone of Facebook - Dreambook is a web app, which allows users to post comments on their own wall as well as on each others. | Ruby, Rails, HTML, CSS, RSpec, PostgreSQL, Heroku |
 | [MakersBnB](https://github.com/Dhara-95/Makersbnb) | A clone of AirBnB's website - MakersBnB is a web app that allows users to list a space available to book, as well as view all the spaces listed on the site. | JavaScript, Node.js, Express, HTML, CSS, Jasmine, ElephantSQL |
+| [Bank Tech Test](https://github.com/Dhara-95/bank_tech_test) | A command line app (runs in IRB), which aims to have the core functionality of a bank. | Ruby, IRB, RSpec, Rubocop |
 
-Please see my full Github repository list [here](https://github.com/Dhara-95?tab=repositories)
+Please see my full Github repository list [here](https://github.com/Dhara-95?tab=repositories).
 
 
 ## Skills
@@ -37,7 +38,6 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 #### University of Southampton (September 2013 - July 2016)
 
 - BSc(Joint Hons) Physical Geography with Geology 2:2
-- Key skills gained:
   - Dissertation on the ‘Water Degradation of the Aral Sea’ – used remote sensing technologies and satellite imagery to track the changes in water levels and composition.
   - Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well as experience in other specialist computer programmes (incl. ENVI and ArcGIS).
   - Gained the ability to analyse and interpret complex data sets, before presenting back findings based on the overall analysis made.

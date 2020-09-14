@@ -43,6 +43,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 #### Fast Learner 
 
 -  At Makers being a fast learner and understanding new technical processes was essential to complete weekly challenges and group projects. The course required a high level of self-led learning, which I have shown throughout the course by learning new languages in short timeframes. 
+
 - An example of this is reflected in our final project, where my team and I learnt the fundementals of mobile app development to build an iOS app in under two weeks, using an entirely new tech stack.
 
 
@@ -69,23 +70,24 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 [**ASOS.com** (May 2018 - May 2020)](https://www.asosplc.com/)    
 *Assistant Pricing Merchandiser*  
-- Reviewed, maintained and managed prices for our entire product assortment and across multiple global markets, under the direction of the Pricing Manager. 
-- Responsible for consolidating weekly, monthly and quarterly reports across key customer and business metrics, to be shared with the Pricing Team and senior management. Consistency and accuracy of reporting were essential in order to ensure the risks and negative commercial impacts were kept to a minimum.  
-- Provided business critical pricing recommendations to the CEO, largely based upon the data analysis I carried out using various internal and external systems, which ultimately helped to potentialise on sales and contributed to bottom line profit. 
-- Built strong professional relationships with colleagues (within Finance, Insights & Analytics, Marketing and Tech), by working cross functionally and utilising my strong communication skills. I believe this skill will help me to pair program and problem solve effectively in a software development role.
+- Reviewed and analysed large data sets across multiple global markets, to provide profit-yielding pricing recommendations. 
+- Worked with internal clients to deliever projects based on their requirements. This experience of working with clients will help in a software development role, when working to turn an idea into a working product. 
+- Created a number of reports and nalysed large data sets on a daily basis to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
+- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross functionally and utilising my strong communication skills. I believe this skill will help me when working in a team within a software development role.
 
 [**Arcadia Group Ltd, Miss Selfridge** (September 2016 - May 2018)](https://www.arcadiagroup.co.uk/)   
 *Senior Merchandising Admin Assistant*  
 - Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
 - Created both promotional and sales plans for stock movement throughout the network of UK and international stores, to potentialise sales and minimise the risk to the business.
-- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy.
-- Liaised between external suppliers and worked cross-functionally within Arcadia, to ensure efficient stock movement between the warehouse and stores.
-- During my time at Arcadia I learnt how to manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment, which will be an essential transferable skill into software development.
+- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. I believe my attention for detail and time management has helped when striving for good code quality and delievery of projects in a small timescale during my journey into learning software development. 
+- During my time at Arcadia I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and ticket prioritisation are key. 
 
 ## Achievements and Interests
 
 - Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I have also recently joined the mentor scheme at Makers Academy where I am a mentor to students who have just started the course. 
 
 - Nominated as the Joint Honours course representative at the University of Southampton.
+
+- Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 
 - More recently I have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.

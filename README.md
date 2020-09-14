@@ -53,6 +53,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 ## Education
 
 [**Makers Academy**](https://makers.tech/) **(May 2020 - August 2020)**
+
 Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
 - Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).

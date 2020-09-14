@@ -28,23 +28,23 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Excellent Communicator
 
-- Strong communication is essential for a junior developer working within a wider tech team. At Makers my strong communication skills were demonstrated when working on a number of group projects throughout the course. 
-- Teamwork and communication were particularly important in our final project - we ensured to have regular stand-ups and retrospective meetings, which helped to build a great relationship within the team. This was especially important as we were all working remotely. 
+- Strong communication is essential for a junior developer working within a wider tech team. At Makers, my strong communication skills were demonstrated when working on several group projects throughout the course.
+- Teamwork and communication were particularly important in our final project - we ensured to have regular stand-ups and retrospective meetings, which helped to build a great relationship within the team. This was especially important as we were all working remotely.
 
-- My excellent communication and teamworking skills have also been strengthened whilst working at ASOS.com. Working cross-functionally on the majority of projects required liaising with a number of stakeholders across various functions (e.g. Tech, Finance, Insight & Analytics and Buying & Merchandising). Therefore effective communication was essential in delivering projects on time. 
+- My excellent communication and teamworking skills have also been strengthened whilst working at ASOS.com. Working cross-functionally on the majority of projects required liaising with multiple stakeholders across various functions (e.g. Tech, Finance, Insight & Analytics and Buying & Merchandising). Therefore effective communication was essential in delivering projects on time. 
 
 #### Analytical and Problem Solving Mindset
 
-- My analytical abilities were strengthened throughout my time at ASOS.com. These skills were demonstrated when I helped develop a successful Excel pricing model, which provided formula-based pricing recommendations for sale events across the entire product assortment. 
+- My analytical abilities were strengthened throughout my time at ASOS.com. These skills were demonstrated when I helped develop a successful Excel pricing model, which provided formula-based pricing recommendations for sale events across the entire product assortment.
 
-- More recently at Makers, I learnt how to effectively de-bug by following the error stack trace and gaining visibility of the error. 
-- This was a particulary important skill for our final project, as we were using a new language and came across a number of errors. However we were able to successfully de-bug using the skills developed throughout the course. 
+- More recently at Makers, I learnt how to effectively de-bug by following the error stack trace and gaining visibility of the error.
+- This was a particularly important skill for our final project, as we were using a new language and came across various errors. However, we were able to successfully de-bug using the skills developed throughout the course.
 
 #### Fast Learner 
 
--  At Makers being a fast learner and understanding new technical processes was essential to complete weekly challenges and group projects. The course required a high level of self-led learning, which I have shown throughout the course by learning new languages in short timeframes. 
+-  At Makers, being a fast learner and understanding new technical processes were essential for completing weekly challenges and group projects. The course required a high level of self-led learning, which I have shown throughout the course by learning new languages in short timeframes. 
 
-- An example of this is reflected in our final project, where my team and I learnt the fundementals of mobile app development to build an iOS app in under two weeks, using an entirely new tech stack.
+- An example of this is reflected in our final project, where my team and I learnt the fundamentals of mobile app development to build an iOS app in under two weeks, using an entirely new tech stack.
 
 
 ## Education
@@ -54,7 +54,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
 - Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).
-- Tech/language agnostic.
+- Language agnostic.
 - Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, PostgreSQL, Swift, Xcode
 
 [**University of Southampton (September 2013 - July 2016)**](https://www.southampton.ac.uk/)
@@ -71,20 +71,20 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 [**ASOS.com** (May 2018 - May 2020)](https://www.asosplc.com/)    
 *Assistant Pricing Merchandiser*  
 - Reviewed and analysed large data sets across multiple global markets, to provide profit-yielding pricing recommendations. 
-- Worked with internal clients to deliever projects based on their requirements. This experience of working with clients will help in a software development role, when working to turn an idea into a working product. 
-- Created a number of reports and nalysed large data sets on a daily basis to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
-- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross functionally and utilising my strong communication skills. I believe this skill will help me when working in a team within a software development role.
+- Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to turn an idea into a working product. 
+- Created several reports and analysed large data sets frequently to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
+- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills. I believe this skill will help me when working in a team within a software development role.
 
 [**Arcadia Group Ltd, Miss Selfridge** (September 2016 - May 2018)](https://www.arcadiagroup.co.uk/)   
 *Senior Merchandising Admin Assistant*  
 - Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
 - Created both promotional and sales plans for stock movement throughout the network of UK and international stores, to potentialise sales and minimise the risk to the business.
-- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. I believe my attention for detail and time management has helped when striving for good code quality and delievery of projects in a small timescale during my journey into learning software development. 
-- During my time at Arcadia I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and ticket prioritisation are key. 
+- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. I believe my attention for detail and time management has helped when striving for good code quality and delivery of projects in a small timescale during my journey into learning software development. 
+- During my time at Arcadia, I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and ticket prioritisation are key. 
 
 ## Achievements and Interests
 
-- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I have also recently joined the mentor scheme at Makers Academy where I am a mentor to students who have just started the course. 
+- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I am also part of the mentor scheme at Makers Academy where I am a mentor to students who have just started the course. 
 
 - Nominated as the Joint Honours course representative at the University of Southampton.
 

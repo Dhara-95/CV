@@ -9,8 +9,11 @@
 
 ## About Me
 
-Recent Software Development graduate from Makers Academy. Looking for a Junior Developer role that will utilise my strong communication and analytical skills.
+I have a background in analytics and merchandising for two of the UK's largest fashion retailers, which I have greatly strengthened my communication, problem-solving and team-working skills over the past three years. 
 
+My love of learning along with the satisfaction I get when solving a problem led me to pursue a career in software development. As a recent graduate from Makers Academy (Europe's leading coding bootcamp), I have learnt a number of technical skills such as Agile development and TDD, as well as softer skills such as understanding different communication styles and pair programming - all of which are essential in delivering high-quality projects on time. 
+
+I am looking for a software development role which will allow me to further develop my technical and non-technical skills, with the opportunity to learn new technologies and processes in a practical environment.  
 
 ## Projects
 

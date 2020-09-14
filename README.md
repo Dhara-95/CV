@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Dhara Patel</h1>
   Email: dhara.patel95@hotmail.co.uk 
-
+  <br></br>
   <a href="https://www.linkedin.com/in/dhara-patel-ab1500b3/"><img src="images/linkedin_logo.png" width="110" alt="LinkedIn"></a>
   <img src="images/white_space.jpg" width="95" height="100">
   <a href="https://medium.com/@dhara.patel95"><img src="images/Medium_image.png" width="100" height="95" alt="Medium" ></a>
@@ -52,33 +52,32 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 ## Education
 
-[**Makers Academy (May 2020 - August 2020)**](https://makers.tech/)
-
+[**Makers Academy**](https://makers.tech/) **(May 2020 - August 2020)**
 Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
 - Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).
 - Language agnostic.
 - Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, PostgreSQL, Swift, Xcode
 
-[**University of Southampton (September 2013 - July 2016)**](https://www.southampton.ac.uk/)
+[**University of Southampton**](https://www.southampton.ac.uk/) **(September 2013 - July 2016)**
 
 - BSc(Joint Hons) Physical Geography with Geology 2:2
   - Dissertation on the ‘Water Degradation of the Aral Sea’ – used remote sensing technologies and satellite imagery to track the changes in water levels and composition.
 
-[**Bromley High School GDST (September 2002 - August 2013)**](https://www.bromleyhigh.gdst.net/)
+[**Bromley High School GDST**](https://www.bromleyhigh.gdst.net/) **(September 2002 - August 2013)**
 
 - A2-Levels: Geography (B), Psychology (B) and Biology (C)
 
 ## Experience
 
-[**ASOS.com** (May 2018 - May 2020)](https://www.asosplc.com/)    
+[**ASOS.com**](https://www.asosplc.com/) **(May 2018 - May 2020)**    
 *Assistant Pricing Merchandiser*  
 - Reviewed and analysed large data sets across multiple global markets, to provide profit-yielding pricing recommendations. 
 - Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to turn an idea into a working product. 
 - Created several reports and analysed large data sets frequently to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
 - Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills. I believe this skill will help me when working in a team within a software development role.
 
-[**Arcadia Group Ltd, Miss Selfridge** (September 2016 - May 2018)](https://www.arcadiagroup.co.uk/)   
+[**Arcadia Group Ltd, Miss Selfridge**](https://www.arcadiagroup.co.uk/) **(September 2016 - May 2018)**   
 *Senior Merchandising Admin Assistant*  
 - Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
 - Created both promotional and sales plans for stock movement throughout the network of UK and international stores, to potentialise sales and minimise the risk to the business.

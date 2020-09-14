@@ -28,19 +28,22 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Excellent Communicator
 
-- Strong communication is essential for a junior developer working within a wider tech team. At Makers my strong communication skills were demonstrated when working on a number of group projects throughout the course. Teamwork and communication were particularly import in our final project, where we set a daily schedule to ensure regular stand-ups and retrospective meetings. These sessions were used to communicate on completed tickets, what each individual or pair was working on and if we faced any challenges. This helped to build a great relationship within the team, which was especially important as we were all working remotely. 
+- Strong communication is essential for a junior developer working within a wider tech team. At Makers my strong communication skills were demonstrated when working on a number of group projects throughout the course. 
+- Teamwork and communication were particularly important in our final project - we ensured to have regular stand-ups and retrospective meetings, which helped to build a great relationship within the team. This was especially important as we were all working remotely. 
 
-- My excellent communication and teamworking skills have also been strengthened whilst working at ASOS.com. I worked cross-functionally on the majority of projects, which required liaising with a number of stakeholders across various functions (e.g. Tech, Finance, Insight & Analytics and Buying & Merchandising). Therefore effective communication was essential in delivering projects on time. 
+- My excellent communication and teamworking skills have also been strengthened whilst working at ASOS.com. Working cross-functionally on the majority of projects required liaising with a number of stakeholders across various functions (e.g. Tech, Finance, Insight & Analytics and Buying & Merchandising). Therefore effective communication was essential in delivering projects on time. 
 
 #### Analytical and Problem Solving Mindset
 
-- Analysis underpinned my role at ASOS.com, where I reviewed and analysed large data sets to provide effective pricing recommendations. My analytical abilities were demonstrated when I helped develop a successful Excel pricing model, which provided formula-based pricing recommendations for sale events across the entire product assortment. 
+- My analytical abilities were strengthened throughout my time at ASOS.com. These skills were demonstrated when I helped develop a successful Excel pricing model, which provided formula-based pricing recommendations for sale events across the entire product assortment. 
 
-- More recently, at Makers I learnt how to effectively de-bug by 'tightening the loop' (following the error stack trace) and 'gaining visibility' (adding print statements to understand what was causing the error). This was a particulary important skill for our final project as we were using a new language, and although we came across a number of errors, we were able to successfully de-bug them using the skills developed throughout the course. 
+- More recently at Makers, I learnt how to effectively de-bug by following the error stack trace and gaining visibility of the error. 
+- This was a particulary important skill for our final project, as we were using a new language and came across a number of errors. However we were able to successfully de-bug using the skills developed throughout the course. 
 
 #### Fast Learner 
 
--  At Makers being a fast learner and understanding new technical processes was essential to complete weekly challenges and group projects. The course required a high level of self-led learning, which I have shown throughout the course by learning new languages in short timeframes. An example of this is reflected in our final project, where my team and I learnt the fundementals of mobile app development to build an iOS app in under two weeks, using an entirely new tech stack.
+-  At Makers being a fast learner and understanding new technical processes was essential to complete weekly challenges and group projects. The course required a high level of self-led learning, which I have shown throughout the course by learning new languages in short timeframes. 
+- An example of this is reflected in our final project, where my team and I learnt the fundementals of mobile app development to build an iOS app in under two weeks, using an entirely new tech stack.
 
 
 ## Education

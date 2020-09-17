@@ -32,23 +32,21 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Excellent Communicator
 
-- Strong communication is essential for a junior developer working within a wider tech team. At Makers, my strong communication skills were demonstrated when working on several group projects throughout the course.
-- Teamwork and communication were particularly important in our final project - we ensured to have regular stand-ups and retrospective meetings, which helped to build a great relationship within the team. This was especially important as we were all working remotely.
+- My excellent communication and team-working skills strengthened whilst working at ASOS.com. Working cross-functionally on projects required liaising with multiple stakeholders across various functions, including the machine learning team. This gave me invaluable insight into how tech teams work with clients, as well as an understanding of when best to exchange information to align with their working sprints.
 
-- My excellent communication and teamworking skills have also been strengthened whilst working at ASOS.com. Working cross-functionally on the majority of projects required liaising with multiple stakeholders across various functions (e.g. Tech, Finance, Insight & Analytics and Buying & Merchandising). Therefore effective communication was essential in delivering projects on time. 
+- At Makers, my strong communication skills were demonstrated when working on several group projects. Teamwork and communication were particularly important in our final project - we ensured to have regular stand-ups and retrospective meetings, which helped to build a great relationship within the team. This was especially important as we were all working remotely.
 
 #### Analytical and Problem Solving Mindset
 
-- My analytical abilities were strengthened throughout my time at ASOS.com. These skills were demonstrated when I helped develop a successful Excel pricing model, which provided formula-based pricing recommendations for sale events across the entire product assortment.
+- My analytical abilities strengthened throughout my time at ASOS.com. This was demonstrated when I helped develop an Excel pricing model, which provided formula-based pricing recommendations for a sale event across Middle Eastern countries. The success of the model was shown in the KPI's, for example, new customer growth was higher than Black Friday in some markets.  
 
-- More recently at Makers, I learnt how to effectively de-bug by following the error stack trace and gaining visibility of the error.
-- This was a particularly important skill for our final project, as we were using a new language and came across various errors. However, we were able to successfully de-bug using the skills developed throughout the course.
+- More recently at Makers, I learnt how to effectively de-bug by following the stack trace and gaining visibility of the error, which proved to be important during our final project. Whilst coding in a new language, we came across various blockers that we were able to successfully de-bug, using the skills developed throughout the course. 
 
-#### Fast Learner 
+#### Leadership Experience 
 
--  At Makers, being a fast learner and understanding new technical processes were essential for completing weekly challenges and group projects. The course required a high level of self-led learning, which I have shown throughout the course by learning new languages in short timeframes. 
+-  I believe that my approachability, empathetic nature and understanding how to build strong professional relationships, has led me to train and mentor several individuals. 
 
-- An example of this is reflected in our final project, where my team and I learnt the fundamentals of mobile app development to build an iOS app in under two weeks, using an entirely new tech stack.
+- I have had the opportunity to develop my leadership skills throughout my professional career and at Makers, by mentoring several colleagues and students. I have found this to be a rewarding experience and hope to be able to continue mentoring, in some capacity, within a software developer role. 
 
 
 ## Education
@@ -88,10 +86,10 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 ## Achievements and Interests
 
-- Selected by the Merchandising Director to take part in Arcadia’s ‘Buddy Scheme’ where I was responsible for an apprentice’s progression and training during their time at Arcadia. I am also part of the mentor scheme at Makers Academy where I am a mentor to students who have just started the course. 
+- Selected by the Merchandising Director to take part in Arcadia’s mentor scheme, where I was responsible for an apprentice’s progression and training.
 
 - Nominated as the Joint Honours course representative at the University of Southampton.
 
 - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 
-- more recently i have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my makers journey and beyond.
+- More recently I have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.

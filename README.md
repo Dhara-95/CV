@@ -57,7 +57,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
 - Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).
 - Language agnostic.
-- Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, SQL, PostgreSQL, Swift, Xcode
+- Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, HTML, CSS, SQL, PostgreSQL, Swift, Xcode.
 
 [**University of Southampton**](https://www.southampton.ac.uk/) **(September 2013 - July 2016)**
 

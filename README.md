@@ -9,11 +9,12 @@
 
 ## About Me
 
-I have a background in analytics and merchandising for two of the UK's largest fashion retailers, which I have greatly strengthened my communication, problem-solving and team-working skills over the past three years. 
+I am a driven and ambitious full-stack developer, with a background in analytics and merchandising from working with two of the UK’s largest retailers. I have experience in working with large data sets and have worked cross-functionally with several teams, including machine learning specialists. 
 
-My love of learning along with the satisfaction I get when solving a problem led me to pursue a career in software development. As a recent graduate from Makers Academy (Europe's leading coding bootcamp), I have learnt a number of technical skills such as Agile development and TDD, as well as softer skills such as understanding different communication styles and pair programming - all of which are essential in delivering high-quality projects on time. 
+My love of learning, along with the satisfaction I get when solving a problem led me to pursue a career in software development. As a recent graduate from Makers Academy (Europe's leading coding bootcamp), I have learnt a number of technical skills including Agile development and TDD, as well as softer skills such as understanding different communication styles, team-working skills and pair programming - all of which are essential in delivering high-quality projects on time.
+ 
+I am looking for a software development role which will allow me to further develop my technical and non-technical skills, with the opportunity to learn new technologies and processes in a practical environment.
 
-I am looking for a software development role which will allow me to further develop my technical and non-technical skills, with the opportunity to learn new technologies and processes in a practical environment.  
 
 ## Projects
 
@@ -93,4 +94,4 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 
-- More recently I have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.
+- more recently i have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my makers journey and beyond.

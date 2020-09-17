@@ -75,7 +75,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 - Reviewed and analysed large data sets across multiple global markets, to provide profit-yielding pricing recommendations. 
 - Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to turn an idea into a working product. 
 - Created several reports and analysed large data sets frequently to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
-- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills. I believe this skill will help me when working in a team within a software development role.
+- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills.
 
 [**Arcadia Group Ltd, Miss Selfridge**](https://www.arcadiagroup.co.uk/) **(September 2016 - May 2018)**   
 *Senior Merchandising Admin Assistant*  

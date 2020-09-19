@@ -80,8 +80,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 [**Arcadia Group Ltd, Miss Selfridge**](https://www.arcadiagroup.co.uk/) **(September 2016 - May 2018)**   
 *Senior Merchandising Admin Assistant*  
 - Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
-- Created both promotional and sales plans for stock movement throughout the network of UK and international stores, to potentialise sales and minimise the risk to the business.
-- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. I believe my attention for detail and time management has helped when striving for good code quality and delivery of projects in a small timescale during my journey into learning software development. 
+- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. My attention to detail and time management has helped when striving for professional code quality and the delivery of projects in a small timescale, during my journey into learning software development. 
 - During my time at Arcadia, I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and ticket prioritisation are key. 
 
 ## Achievements and Interests

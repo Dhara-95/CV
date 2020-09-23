@@ -75,13 +75,13 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 - Reviewed and analysed large data sets across multiple global markets, to provide profit-yielding pricing recommendations. 
 - Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to turn an idea into a working product. 
 - Created several reports and analysed large data sets frequently to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
-- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills.
+- Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing, Logistics and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills.
 
 [**Arcadia Group Ltd, Miss Selfridge**](https://www.arcadiagroup.co.uk/) **(September 2016 - May 2018)**   
 *Senior Merchandising Admin Assistant*  
 - Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
 - Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. My attention to detail and time management has helped when striving for professional code quality and the delivery of projects in a small timescale, during my journey into learning software development. 
-- During my time at Arcadia, I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and ticket prioritisation are key. 
+- During my time at Arcadia, I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and task prioritisation are key. 
 
 ## Achievements and Interests
 

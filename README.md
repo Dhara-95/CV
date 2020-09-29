@@ -44,11 +44,9 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 - More recently at Makers, I learnt how to effectively de-bug by following the stack trace and gaining visibility of the error, which proved to be important during our final project. Whilst coding in a new language, we came across various blockers that we were able to successfully de-bug, using the skills developed throughout the course. 
 
-#### Leadership Experience 
+#### Mentoring
 
--  I believe that my approachability, empathetic nature and understanding how to build strong professional relationships, has led me to train and mentor several individuals. 
-
-- I have had the opportunity to develop my leadership skills throughout my professional career and at Makers, by mentoring several colleagues and students. I have found this to be a rewarding experience and hope to be able to continue mentoring, in some capacity, within a software developer role. 
+-  I believe that my approachability, empathetic nature and understanding how to build strong professional relationships, has led me to train and mentor several individuals. I have had the opportunity to develop my mentoring skills throughout my professional career and at Makers, by mentoring several colleagues and students. I have found this to be a rewarding experience and hope to be able to continue mentoring, in some capacity, within a software development role. 
 
 
 ## Education

@@ -87,7 +87,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 - Selected by the Merchandising Director to take part in Arcadia’s mentor scheme, where I was responsible for an apprentice’s progression and training.
 
-- Nominated as the Joint Honours course representative at the University of Southampton.
+- Nominated as the Joint Honours course representative at the University of Southampton, which involved collating feedback from peers and discussing with senior staff at faculty meetings. 
 
 - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 

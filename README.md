@@ -56,7 +56,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
 - Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).
-- Language agnostic.
+- Learning new languages in short timeframes and the skills required to be language agnostic.
 - Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, HTML, CSS, SQL, PostgreSQL, Swift, Xcode.
 
 [**University of Southampton**](https://www.southampton.ac.uk/) **(September 2013 - July 2016)**

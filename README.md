@@ -25,7 +25,7 @@ I am looking for a software development role which will allow me to further deve
 | [MakersBnB](https://github.com/Dhara-95/Makersbnb) | A clone of AirBnB's website - MakersBnB is a web app that allows users to list a space available to book, as well as view all the spaces listed on the site. | JavaScript, Node.js, Express, HTML, CSS, Jasmine, ElephantSQL |
 | [Bank Tech Test](https://github.com/Dhara-95/bank_tech_test) | A command line app (runs in IRB), which aims to have the core functionality of a bank. | Ruby, IRB, RSpec, Rubocop |
 
-*Currently working on a pro bono project for the AgeUK charity to enhance their current volunteering system. The project will be built in Ruby on Rails and [Administrate](https://github.com/thoughtbot/administrate), based on the client's required specifications.*
+*Currently working on a pro bono project for the AgeUK charity to enhance their current volunteer management system. The project is in the planning stages, where we are exploring the most appropriate technologies to use that meet the client's requirements. One of the options discussed was to use Ruby on Rails and [Administrate](https://github.com/thoughtbot/administrate) - a demo of the basic interface was built for the client and can be viewed [here](https://github.com/Dhara-95/Admin_App).*
 
 Please see my full Github repository list [here](https://github.com/Dhara-95?tab=repositories).
 

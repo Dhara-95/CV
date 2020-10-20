@@ -89,6 +89,8 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 - Nominated as the Joint Honours course representative at the University of Southampton, which involved collating feedback from peers and discussing with senior staff at faculty meetings. 
 
+- A member of 3 Tech groups, who hold regular events on a range of technical topics as well as soft skills for improved professional development. Some recent events I have attended innclude: the [BBC Tech Meetup](https://www.bbc.co.uk/programmes/articles/7jg6vMR6tmpcDwnCRJfW11/bbc-tech-meetup-16-09-20-iot-adoption-beeb-and-switching-careers-to-product), [TechTree’s ‘Show & Tell’ Series](https://hopin.to/events/techtree-show-tell-seedcamp-edition) and the most recent October 2020 [LRUG talk](https://lrug.org/). I enjoy attending these events to network with other developers and to learn about the technological challenges faced by different sectors from industry professionals. 
+
 - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 
 - More recently I have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.

@@ -90,12 +90,12 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 ## Achievements and Interests
 
-- Selected by the Merchandising Director to take part in Arcadia’s mentor scheme, where I was responsible for an apprentice’s progression and training.
+- **Mentoring** - Selected by the Merchandising Director at Arcadia to mentor an apprentice. Also volnteered to mentor current Makers Academy students. 
 
-- Nominated as the Joint Honours course representative at the University of Southampton, which involved collating feedback from peers and discussing with senior staff at faculty meetings. 
+- **Course Representative** - Nominated as the Joint Honours Course Rep at the University of Southampton, which involved collating feedback from peers and discussing with senior staff at faculty meetings. 
 
-- Enjoy attending Tech events, which explore a range of technical topics as well as soft skills for improved professional development. These events provide the opportunity to network with other developers and to learn about the technological challenges faced by different sectors from industry professionals. Some recent events I have attended include the [BBC Tech Meetup](https://www.bbc.co.uk/programmes/articles/7jg6vMR6tmpcDwnCRJfW11/bbc-tech-meetup-16-09-20-iot-adoption-beeb-and-switching-careers-to-product), [TechTree’s ‘Show & Tell’ Series](https://hopin.to/events/techtree-show-tell-seedcamp-edition) and the most recent October 2020 [LRUG talk](https://lrug.org/). 
+- **Tech Events** - Enjoy attending Tech events, which provide the opportunity to network with other developers and to learn about the technological challenges faced by different sectors from industry professionals. Some recent events I have attended include the [BBC Tech Meetup](https://www.bbc.co.uk/programmes/articles/7jg6vMR6tmpcDwnCRJfW11/bbc-tech-meetup-16-09-20-iot-adoption-beeb-and-switching-careers-to-product), [TechTree’s ‘Show & Tell’ Series](https://hopin.to/events/techtree-show-tell-seedcamp-edition) and the most recent October 2020 [LRUG talk](https://lrug.org/).
 
-- Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
+- **Blogging** - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 
-- More recently I have started yoga and meditation to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.
+- **Fitness** - Recently  started running and practicing yoga to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.

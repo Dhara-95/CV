@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a driven and ambitious full-stack developer, with a background in analytics and merchandising from working with two of the UK’s largest retailers. I have experience in working with large data sets and have worked cross-functionally with several teams, including machine learning specialists. 
+I am a driven and ambitious full-stack developer, with a background in analytics and merchandising from working with two of the UK’s largest retailers. I have experience in working with large data sets and have worked cross-functionally with several teams, including Machine Learning specialists and Business Analysts. 
 
 My love of learning, along with the satisfaction I get when solving a problem led me to pursue a career in software development. As a recent graduate from Makers Academy (Europe's leading coding bootcamp), I have learnt a number of technical skills including Agile development and TDD, as well as softer skills such as understanding different communication styles, team-working skills and pair programming - all of which are essential in delivering high-quality projects on time.
  
@@ -77,7 +77,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 [**ASOS.com**](https://www.asosplc.com/) **(May 2018 - May 2020)**    
 *Assistant Pricing Merchandiser*  
-- Reviewed and analysed large data sets across multiple global markets, to provide profit-yielding pricing recommendations. 
+- Reviewed and analysed large data sets across multiple global markets, to provide strategic pricing recommendations for up to 85,000 products using my strong analytical skills. 
 - Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to turn an idea into a working product. 
 - Created several reports and analysed large data sets frequently to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
 - Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing, Logistics and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills.
@@ -94,7 +94,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 - **Course Representative** - Nominated as the Joint Honours Course Rep at the University of Southampton, which involved collating feedback from peers and discussing with senior staff at faculty meetings. 
 
-- **Tech Events** - Enjoy attending Tech events, which provide the opportunity to network with other developers and to learn about the technological challenges faced by different sectors from industry professionals. Some recent events I have attended include the [BBC Tech Meetup](https://www.bbc.co.uk/programmes/articles/7jg6vMR6tmpcDwnCRJfW11/bbc-tech-meetup-16-09-20-iot-adoption-beeb-and-switching-careers-to-product), [TechTree’s ‘Show & Tell’ Series](https://hopin.to/events/techtree-show-tell-seedcamp-edition) and the most recent October 2020 [LRUG talk](https://lrug.org/).
+- **Tech Events** - Enjoy attending Tech events, which provide the opportunity to network with other developers and to learn about the technological challenges faced by different sectors from industry professionals. Some recent events I have attended include the [BBC Tech Meetup](https://www.bbc.co.uk/programmes/articles/7jg6vMR6tmpcDwnCRJfW11/bbc-tech-meetup-16-09-20-iot-adoption-beeb-and-switching-careers-to-product), [TechTree’s ‘Show & Tell’ Series](https://hopin.to/events/techtree-show-tell-seedcamp-edition) and the October 2020 [LRUG talk](https://lrug.org/).
 
 - **Blogging** - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
 

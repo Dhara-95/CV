@@ -32,7 +32,7 @@ I am looking for a software development role which will allow me to further deve
 
 - Upskilling myself and learning [React](https://reactjs.org/) using the [Makers Adademy React course](https://github.com/makersacademy/react/tree/master/units/tdd), as well as through online tutorials and resources such as the [Udemy - React Basics](https://www.udemy.com/course/react-basic-in-just-1-hour/) course. 
 
-- Recently started learning [Java](https://docs.oracle.com/javase/7/docs/technotes/guides/language/) using [Codeacademy](https://www.codecademy.com/learn/learn-java). 
+- Recently started learning [Java](https://docs.oracle.com/javase/7/docs/technotes/guides/language/) using [Codeacademy](https://www.codecademy.com/learn/learn-java) to understand how it compares to other OOP languages that I am familiar with (Ruby and JavaScript).
 
 Please see my full Github repository list [here](https://github.com/Dhara-95?tab=repositories).
 

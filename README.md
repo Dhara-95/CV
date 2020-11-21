@@ -80,7 +80,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 [**ASOS.com**](https://www.asosplc.com/) **(May 2018 - May 2020)**    
 *Assistant Pricing Merchandiser*  
 - Reviewed and analysed large data sets across multiple global markets, to provide strategic pricing recommendations for up to 85,000 products using my strong analytical skills in Excel.
-- Provided business critical pricing recommendations to the CEO, largely based upon the data analysis I carried out using internal and external data systems, which helped to potentialise on sales and contributed to new customer growth. 
+- Provided business critical competitor analysis to the CEO using internal and external data systems, which helped to form ASOS' pricing strategy and potentialise on sales, as well as contributing to new customer growth. 
 - Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to transform an idea into a working product. 
 - Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing, Logistics and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills.
 

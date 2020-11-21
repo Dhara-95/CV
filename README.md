@@ -41,7 +41,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Excellent Communicator
 
-- My excellent communication and team-working skills strengthened whilst working at ASOS.com. Working cross-functionally on projects required liaising with multiple stakeholders across various functions, including the Machine Learning  and Business Analyst teams. This gave me invaluable insight into how tech teams work with clients, as well as an understanding of when best to exchange information to align with their Agile working pratcices (e.g. sprint planning meetings).
+- My excellent communication and team-working skills strengthened whilst working at ASOS.com. Working cross-functionally on projects required liaising with multiple stakeholders across various functions, including the Machine Learning  and Business Analyst teams. This gave me invaluable insight into how tech teams work with clients, as well as an understanding of when best to exchange information to align with their Agile working practices (e.g. sprint planning meetings).
 
 - At Makers, my strong communication skills were demonstrated when working on several group projects. Teamwork and communication were particularly important in our final project - we ensured to have regular stand-ups and retrospective meetings, which helped to build a great relationship within the team. This was especially important as we were all working remotely.
 

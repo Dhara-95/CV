@@ -47,7 +47,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Analytical and Problem Solving Mindset
 
-- My analytical abilities strengthened throughout my time at ASOS.com. This was demonstrated when I helped develop an Excel pricing model, which provided formula-based pricing recommendations for a sale event across Middle Eastern countries. The success of the model was shown in the KPI's, for example, new customer growth was higher than Black Friday in some markets.  
+- My analytical abilities strengthened throughout my time at ASOS.com. This was demonstrated when I helped develop an Excel pricing model, which provided formula-based pricing recommendations for a sale event across Middle Eastern countries. The success of the model was shown in the KPI's, for example, new customer growth in Saudia Arabia was higher than Black Friday and increased by +2%.  
 
 - More recently at Makers, I learnt how to effectively de-bug by following the stack trace and gaining visibility of the error, which proved to be important during our final project. Whilst coding in a new language, we came across various blockers that we were able to successfully de-bug, using the skills developed throughout the course. 
 
@@ -64,7 +64,7 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 - Object-Oriented Programming, TDD, Agile Development and writing clean code (adhering to SRP and DRY principles).
 - Project planning and domain modelling (MVC diagrams, Wireframes and Class diagrams).
 - Learning new languages in short timeframes and the skills required to be language agnostic.
-- Tech stack: Ruby, Ruby on Rails, JavaScript, Node.js, Express, HTML, CSS, SQL, PostgreSQL, Swift, Xcode.
+- Tech stack: Ruby, Ruby on Rails, JavaScript, HTML, CSS, SQL, PostgreSQL, Swift, Xcode.
 
 [**University of Southampton**](https://www.southampton.ac.uk/) **(September 2013 - July 2016)**
 
@@ -79,16 +79,17 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 
 [**ASOS.com**](https://www.asosplc.com/) **(May 2018 - May 2020)**    
 *Assistant Pricing Merchandiser*  
-- Reviewed and analysed large data sets across multiple global markets, to provide strategic pricing recommendations for up to 85,000 products using my strong analytical skills. 
-- Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to turn an idea into a working product. 
-- Created several reports and analysed large data sets frequently to aid in business strategy decisions. My experience in working with data has helped with learning SQL and I am now confident in working with databases. 
+- Reviewed and analysed large data sets across multiple global markets, to provide strategic pricing recommendations for up to 85,000 products using my strong analytical skills in Excel.
+- Provided business critical pricing recommendations to the CEO, largely based upon the data analysis I carried out using internal and external data systems, which helped to potentialise on sales and contributed to new customer growth. 
+- Worked with internal clients to deliver projects based on their requirements. This experience of working with clients will help in a software development role, to transform an idea into a working product. 
 - Built strong professional relationships with colleagues (within Tech, Finance, Insight & Analytics, Marketing, Logistics and Buying & Merchandising), by working cross-functionally and utilising my strong communication skills.
 
 [**Arcadia Group Ltd, Miss Selfridge**](https://www.arcadiagroup.co.uk/) **(September 2016 - May 2018)**   
 *Senior Merchandising Admin Assistant*  
-- Analysed sales data to provide regular reporting for my team and presented KPI’s to senior management. 
-- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. My attention to detail and time management has helped when striving for professional code quality and the delivery of projects in a small timescale, during my journey into learning software development. 
-- During my time at Arcadia, I learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and task prioritisation are key. 
+- Analysed sales data to provide regular performance reporting for my team and presented KPI’s to senior management in weekly trade meetings. 
+- Effective analysis underpinned this role, which I believe I was able to achieve with my improved time management skills and efficiency, whilst maintaining a high level of accuracy. My attention to detail and time management has helped when striving for professional code quality and the delivery of projects in a small timeframe, during my journey into learning software development. 
+- Utilised my strong communication skills to liaise between external suppliers and worked collaboratively with Arcadia’s Logistics team, to ensure efficient stock movement between the warehouse and stores.
+- Learnt how to work cross-functionally, manage workloads and prioritise tasks effectively, whilst working in a fast-paced environment. This will be an essential skill in a software development role, where good teamwork and ticket prioritisation are key. 
 
 ## Achievements and Interests
 
@@ -99,5 +100,3 @@ Fully remote 16-week Immersive Software Development Course, which focused on:
 - **Tech Events** - Enjoy attending Tech events, which provide the opportunity to network with other developers and to learn about the technological challenges faced by different sectors from industry professionals. Some recent events I have attended include the [BBC Tech Meetup](https://www.bbc.co.uk/programmes/articles/7jg6vMR6tmpcDwnCRJfW11/bbc-tech-meetup-16-09-20-iot-adoption-beeb-and-switching-careers-to-product), [TechTree’s ‘Show & Tell’ Series](https://hopin.to/events/techtree-show-tell-seedcamp-edition) and the October 2020 [LRUG talk](https://lrug.org/).
 
 - **Blogging** - Started documenting my learning and job hunting experiences on my [blog](https://medium.com/@dhara.patel95). 
-
-- **Fitness** - Recently  started running and practicing yoga to help keep my mind focused, whilst learning new technologies and processes throughout my Makers journey and beyond.

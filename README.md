@@ -47,7 +47,7 @@ Please see my full Github repository list [here](https://github.com/Dhara-95?tab
 
 #### Analytical and Problem Solving Mindset
 
-- My analytical abilities strengthened throughout my time at ASOS.com. This was demonstrated when I helped develop an Excel pricing model, which provided formula-based pricing recommendations for a sale event across Middle Eastern countries. The success of the model was shown in the KPI's, for example, new customer growth in Saudia Arabia was higher than Black Friday and increased by +2%.  
+- My analytical abilities strengthened throughout my time at ASOS.com. This was demonstrated when I helped develop an Excel pricing model, which provided formula-based pricing recommendations for a sale event across Middle Eastern countries. The success of the model was shown in the KPI's, for example, new customer growth in Saudi Arabia was higher than Black Friday and increased by +2%.  
 
 - More recently at Makers, I learnt how to effectively de-bug by following the stack trace and gaining visibility of the error, which proved to be important during our final project. Whilst coding in a new language, we came across various blockers that we were able to successfully de-bug, using the skills developed throughout the course. 
 

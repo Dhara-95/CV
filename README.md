@@ -30,7 +30,7 @@ I am looking for a software development role which will allow me to further deve
 
 - Working on a pro bono project for the AgeUK charity to enhance their current volunteer management system. The project is in the planning stages, where we are exploring the most appropriate technologies to use that meet the client's requirements. One of the options discussed was to use Ruby on Rails and [Administrate](https://github.com/thoughtbot/administrate) - a demo of the basic interface was built for the client and can be viewed [here](https://github.com/Dhara-95/Admin_App). Using [Airtable's](https://airtable.com/) interface is also another option we are exploring. 
 
-- Upskilling myself and learning [React](https://reactjs.org/) using the [Makers Adademy React course](https://github.com/makersacademy/react/tree/master/units/tdd), as well as through online tutorials and resources such as the [Udemy - React Basics](https://www.udemy.com/course/react-basic-in-just-1-hour/) course. 
+- Upskilling myself in [React](https://reactjs.org/) by building a [ToDo list web app](https://github.com/Dhara-95/to_do_app).
 
 - Recently started learning [Java](https://docs.oracle.com/javase/7/docs/technotes/guides/language/) using [Codeacademy](https://www.codecademy.com/learn/learn-java) to understand how it compares to other OOP languages that I am familiar with (Ruby and JavaScript).
 
